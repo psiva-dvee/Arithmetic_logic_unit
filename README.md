@@ -4,7 +4,7 @@ A Verilog HDL implementation of a 16-bit Arithmetic Logic Unit (ALU) supporting 
 
 ## Project Description
 
-This project implements an ALU that performs multiple operations based on a 4-bit command input. The design is written in Verilog HDL and verified using a testbench in ModelSim.
+This project implements a 16-bit Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU performs arithmetic and logical operations on two 8-bit input operands based on a 4-bit command input. The design is written in Verilog HDL and verified using a testbench in ModelSim.
 
 ## Features
 
